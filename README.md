@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C and C++**
 
-- 👯 I’m looking to collaborate on **C and C++**
+- 👯 I’m looking to collaborate on **Python and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://emrebengu.dev/](https://emrebengu.dev/)
 
