@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 Currently learning **C and C++**
 
-- 👯 I’m looking to collaborate on **Python and Javascript**
-
-- 👨‍💻 All of my projects are available at [https://emrebengu.dev/](https://emrebengu.dev/)
-
-- 📫 How to reach me **emrebengue@gmail.com**
-
-- 📄 Know about my experiences [https://emrebengu.dev/EMREBENGU_resume.pdf](https://emrebengu.dev/EMREBENGU_resume.pdf)
+- 👨‍💻 Personal website [https://emrebengu.dev/](https://emrebengu.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
