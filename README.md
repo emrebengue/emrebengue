@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate software developer</h3>
-
-- 🌱 Currently learning **C and C++**
+- 🌱 Currently learning **Rust**
 
 - 👨‍💻 Personal website [https://emrebengu.dev/](https://emrebengu.dev/)
 
