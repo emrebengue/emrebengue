@@ -17,6 +17,12 @@
 
 - [**Resume**](https://emrebengu.dev/EMREBENGU_resume.pdf) <- click
 
+- **Fun things I like to read in my free time:**
+  - "After careful consideration, we regret to inform you that we have decided to pursue other candidates..."
+  - "Thank you for your application. Unfortunately, we will not be moving forward at this time..."
+  - "We truly appreciate the time and effort you put into your application..."
+    
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emre-bengu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-bengu" height="30" width="40" /></a>
