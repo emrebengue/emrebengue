@@ -1,10 +1,22 @@
-- 🌱 I’m currently learning **Rust**
+- **Experience**
+  - Chief Coordinator of Recursive Redundancy at the Institute for Multi-Stage Hypothetical Deployment.
+  - Former Associate Assistant to the Deputy Intern of Network Latency Awareness at NullCorp. (never on time)
+  - Authored several unpublished whitepapers on token entropy and the metaphysical properties of curly brackets.
+    
+- **Currently Learning**
+  - Postmodern Git message design
+  - cargo run && hope
+  - Applied procrastination via LLM
+  - Reverse engineering forward motion
 
-- 👨‍💻 Personal Website [https://emrebengu.dev/](https://emrebengu.dev/)
 
-- 📫 How to reach me **emrebengue@gmail.com**
+- **Website**
+  [https://emrebengu.dev/](https://emrebengu.dev/)
 
-- 📄 Resume [https://emrebengu.dev/EMREBENGU_resume.pdf](https://emrebengu.dev/EMREBENGU_resume.pdf)
+- emrebengue@gmail.com
+
+- **Resume**
+  [https://emrebengu.dev/EMREBENGU_resume.pdf](https://emrebengu.dev/EMREBENGU_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
