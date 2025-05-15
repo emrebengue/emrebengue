@@ -15,8 +15,7 @@
 
 - emrebengue@gmail.com
 
-- **Resume**
-  [https://emrebengu.dev/EMREBENGU_resume.pdf](https://emrebengu.dev/EMREBENGU_resume.pdf)
+- [**Resume**](https://emrebengu.dev/EMREBENGU_resume.pdf) <- click
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
