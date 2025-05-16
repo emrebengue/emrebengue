@@ -19,8 +19,8 @@
 
 - **Fun things I like to read in my free time:**
   - "After careful consideration, we regret to inform you that we have decided to pursue other candidates..."
-  - "Thank you for your application. Unfortunately, we will not be moving forward at this time..."
-  - "We truly appreciate the time and effort you put into your application..."
+
+
     
 
 <h3 align="left">Connect with me:</h3>
